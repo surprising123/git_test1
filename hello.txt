@@ -1,3 +1,0 @@
-master
-test1test1
-master2
